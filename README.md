@@ -1,3 +1,3 @@
-# freshers_hackathon
+# Eventron
 
 Android Application for event management.
