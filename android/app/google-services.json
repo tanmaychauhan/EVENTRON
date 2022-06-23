@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927101778699",
+    "project_id": "fres-e2a48",
+    "storage_bucket": "fres-e2a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927101778699:android:63a35e53f9a91332ce800e",
+        "android_client_info": {
+          "package_name": "com.example.freshers_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927101778699-0j4iv7uo2gm0mrj23ro1k7nmg21kj6vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQHg1PpwH8-KkNWfkt8Y6Yk-wTnEkOcho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927101778699-0j4iv7uo2gm0mrj23ro1k7nmg21kj6vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
